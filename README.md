@@ -1,12 +1,8 @@
 # EYEscort
 This package includes source code for Android applications, **EYEscort** and **EYEscort_guidance**.
 
-EYEscort
----------------
-**EYEscort** is a beacon-driven navigation system for people with visual impairment with specific goal of helping them cross road without crosswalk diversion. 
+**EYEscort** is a beacon-driven navigation system for people with visual impairment with a specific goal of helping them cross road without crosswalk diversion. 
 
-EYEscort_guidance
----------------
 **EYEscort_guidance** is an application for the guardian of the blind.
 
 Key features
