@@ -5,7 +5,7 @@ This package includes source code for Android applications, **EYEscort** and **E
 
 **EYEscort_guidance** is an application for the guardian of the blind.
 
-Key features
+Key features are as follows.
 - Voice guidance
 - Beacon detection
 - Notify when user diverts from the safe boundary of crosswalk (sound/vibration) 
