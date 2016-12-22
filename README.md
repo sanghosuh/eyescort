@@ -10,3 +10,4 @@ Key Features:
 - Beacon detection & direction guidance
 - Warning when the blind goes wrong direction
 - Navigation 
+# privacy_policy-EYEscort
